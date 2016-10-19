@@ -1,0 +1,3 @@
+how to run:
+make program
+./program Input_Size Number_Of_Threads
